@@ -2,8 +2,6 @@
 
 A structured document to learn about Ethereum from the basics to advanced concepts.
 
-_Table of Contents_
-
 1. [Reading](#reading)
 2. [Glossary](#glossary)
 3. [Communities](#communities)
