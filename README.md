@@ -133,13 +133,16 @@ __Morden__: First alternative testnet for Ethereum
 ## Online Communities
 
 __r/ethereum__: [reddit.com/r/ethereum](https://reddit.com/r/ethereum/)
+
 __Ethereum Community Forum__: [forum.ethereum.org](https://forum.ethereum.org/)
 
 ## Notable People
 
-__[Vitalik Buterin](https://twitter.com/VitalikButerin)__: Inventor of Ethereum, protocol developer and researcher.
+__[Vitalik Buterin](https://twitter.com/VitalikButerin)__: Inventor of Ethereum, protocol developer and researcher
+
 __[Gavin Wood](https://twitter.com/gavofyork)__: Primary core developer and lead C++ developer
-__[Jeffrey Wilcke](https://twitter.com/jeffehh)__: Primary core developer and lead Go developer.
+
+__[Jeffrey Wilcke](https://twitter.com/jeffehh)__: Primary core developer and lead Go developer
 
 # Meta
 
