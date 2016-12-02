@@ -12,49 +12,49 @@ _Table of Contents_
 
 ## Reading
 
-0. __Wikipedia: Ethereum__: [en.wikipedia.org/wiki/Ethereum](https://en.wikipedia.org/wiki/Ethereum)
+0. __[Wikipedia: Ethereum](https://en.wikipedia.org/wiki/Ethereum)__
 
-   Brief synopsis of Ethereum.
+   Brief synopsis of Ethereum
 
-1. __Ethereum Homepage__: [ethereum.org](https://ethereum.org)
+1. __[Ethereum Homepage](https://ethereum.org)__
 
-   Official overview.
+   Official overview
 
-2. __What is Ether?__: [ethereum.org/ether](https://ethereum.org/ether)
+2. __[What is Ether?](https://ethereum.org/ether)__
 
-   FAQ on ethereum.org.
+   FAQ on ethereum.org
 
-3. __Ethereum Homestead Documentation: What is Ethereum?__: [ethdocs.org/en/latest/introduction/what-is-ethereum.html](http://www.ethdocs.org/en/latest/introduction/what-is-ethereum.html)
+3. __[Ethereum Homestead Documentation: What is Ethereum?](http://www.ethdocs.org/en/latest/introduction/what-is-ethereum.html)__
 
    Community-run Ethereum documentation. Start here with the page _What is Ethereum?_
 
-4. __Introduction to Mining__: [github.com/ethereum/wiki/wiki/Mining](https://github.com/ethereum/wiki/wiki/Mining)
+4. __[Introduction to Mining](https://github.com/ethereum/wiki/wiki/Mining)__
 
     Introduction to mining, written on the Ethereum github wiki.
 
-4. __Web 3: A platform for decentralized apps__: [ethdocs.org/en/latest/introduction/web3.html](http://www.ethdocs.org/en/latest/introduction/web3.html)
+4. __[Web 3: A platform for decentralized apps](http://www.ethdocs.org/en/latest/introduction/web3.html)__
 
-5. __History of Ethereum__: [ethdocs.org/en/latest/introduction/history-of-ethereum.html](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html)
+5. __[History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html)__
 
-6. __The "Yellow Paper"__: [paper.gavwood.com](http://paper.gavwood.com/)
+6. __[The "Yellow Paper"](http://paper.gavwood.com/)__
 
    Ethereum's formal techincal specification. Dense, but definitely worth a quick skim to understand the full context of Ethereum.
     
 _Now that you've got a hang of it, we'll continue with more technical resources and documentation._
 
-7. __Create your own crypto-currency with Ethereum__: [ethereum.org/token](https://www.ethereum.org/token)
+7. __[Create your own crypto-currency with Ethereum](https://www.ethereum.org/token)__
 
-8. __Crowdsale: Raising funds without a third party__: [ethereum.org/crowdsale](https://www.ethereum.org/crowdsale)
+8. __[Crowdsale: Raising funds without a third party](https://www.ethereum.org/crowdsale)__
 
-9. __Decentralized Autonomous Organization (DAO): How to build a democracy on the blockchain__ : [ethereum.org/dao](https://www.ethereum.org/dao)
+9. __[DAO: How to build a democracy on the blockchain](https://www.ethereum.org/dao)__
 
-10. __Solidity Technical Documentation: Introduction to Smart Contracts__: [solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)
+10. __[Solidity Technical Documentation: Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)__
 
 ----
 
 _Further reading, in no particular order:_
 
-* __Ethereum Community-Maintained Wiki__: [github.com/ethereum/wiki/wiki](https://github.com/ethereum/wiki/wiki)
+* __[Ethereum Community-Maintained Wiki](https://github.com/ethereum/wiki/wiki)__
 
 ## Glossary
 
