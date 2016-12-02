@@ -6,7 +6,7 @@ _Table of Contents_
 
 1. [Reading](#reading)
 2. [Glossary](#glossary)
-3. [Online Communities](#online-communities)
+3. [Communities](#communities)
 4. [Notable People](#notable-people)
 5. [Meta](#meta)
 
@@ -40,25 +40,24 @@ _Table of Contents_
 
    Ethereum's formal techincal specification. Dense, but definitely worth a quick skim to understand the full context of Ethereum.
     
-_Now that you've got a hang of it, we'll continue with more technical resources and documentation._
+### Further reading
 
-7. __[Create your own crypto-currency with Ethereum](https://www.ethereum.org/token)__
-
-8. __[Crowdsale: Raising funds without a third party](https://www.ethereum.org/crowdsale)__
-
-9. __[DAO: How to build a democracy on the blockchain](https://www.ethereum.org/dao)__
-
-10. __[Solidity Technical Documentation: Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)__
-
-----
-
-_Further reading, in no particular order:_
+_In no particular order_
 
 * __[Ethereum Community-Maintained Wiki](https://github.com/ethereum/wiki/wiki)__
 
+### Technical reading
+
+* Ethereum.org tutorials
+  * __[Create your own crypto-currency with Ethereum](https://www.ethereum.org/token)__
+  * __[Crowdsale: Raising funds without a third party](https://www.ethereum.org/crowdsale)__
+  * __[DAO: How to build a democracy on the blockchain](https://www.ethereum.org/dao)__
+
+* __[Solidity Technical Documentation: Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)__
+
 ## Glossary
 
-_Ordered by importance._
+_Loosely ordered by importance_
 
 __Ethereum__: Public blockchain platform with smart contract functionality. Povides a decentralized virtual machine that can execute peer-to-peer contracts using a cryptocurrency called Ether (ETH)
 
@@ -130,11 +129,13 @@ __Ethash__: Current proof-of-work algorithm for Ethereum
 
 __Morden__: First alternative testnet for Ethereum
 
-## Online Communities
+## Communities
 
 __r/ethereum__: [reddit.com/r/ethereum](https://reddit.com/r/ethereum/)
 
 __Ethereum Community Forum__: [forum.ethereum.org](https://forum.ethereum.org/)
+
+__Meetups__: [meetup.com/topics/ethereum](https://www.meetup.com/topics/ethereum/)
 
 ## Notable People
 
