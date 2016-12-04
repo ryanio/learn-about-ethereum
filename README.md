@@ -119,9 +119,13 @@ __[pyethereum](https://github.com/ethereum/pyethereum)__: Python core library
 
 __ethOS__: Linux OS designed to mine Ethereum
 
+__Frontier__: First major release of th Ethereum platform
+
 __Homestead__: Second major version release of the Ethereum platform
 
-__Serenity__: Next major release of Ethereum. Intended to have two major feature sets: [abstraction](https://blog.ethereum.org/2015/07/05/on-abstraction/) and Casper
+__Metropolis__: Third major version release of the Ethereum platform
+
+__Serenity__: Fourth major release of Ethereum. Intended to have two major feature sets: [abstraction](https://blog.ethereum.org/2015/07/05/on-abstraction/) and Casper
 
 __Casper__: Proof-of-stake algorithm in development for Serenity
 
