@@ -59,17 +59,19 @@ _Loosely ordered by importance_
 
 __Ethereum__: Public blockchain platform with smart contract functionality. Povides a decentralized virtual machine that can execute peer-to-peer contracts using a cryptocurrency called Ether (ETH)
 
+__Ether (ETH)__: The instrinsic currency for Ethereum
+
 __Blockchain__: A distributed database that maintains a continuously-growing list of ordered records called blocks. Each block contains a timestamp and a link to a previous block
 
-__Ether (ETH)__: Instrinsic currency for Ethereum
+__Gas__: The price for running a transaction or contract in Ethereum.
 
-__Mining__: The word mining originates in the context of the gold analogy for crypto currencies. Gold or precious metals are scarce, so are digital tokens, and the only way to increase the total volume is through mining it.
+__Mining__: The computational work neccessary to validify and secure the Ethereum network. 
 
 __Ethereum Wallet__: Gateway to hold ether and use smart contracts on Ethereum
 
-__DApp__: Decentralized app
-
 __Ethereum browser__: Software to browse and use DApps on Ethereum
+
+__DApp__: Decentralized app
 
 __[Parity](https://ethcore.io/parity.html)__: Ethereum browser that integrates directly into your web browser
 
