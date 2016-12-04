@@ -12,11 +12,11 @@ A structured document to learn about Ethereum from the basics to advanced concep
 
 0. __[Wikipedia: Ethereum](https://en.wikipedia.org/wiki/Ethereum)__
 
-   Brief synopsis of Ethereum
+   Brief synopsis of Ethereum on Wikipedia
 
 1. __[Ethereum Homepage](https://ethereum.org)__
 
-   Official overview
+   Official overview on ethereum.org
 
 2. __[What is Ether?](https://ethereum.org/ether)__
 
@@ -26,17 +26,17 @@ A structured document to learn about Ethereum from the basics to advanced concep
 
    Community-run Ethereum documentation. Start here with the page _What is Ethereum?_
 
-4. __[Introduction to Mining](https://github.com/ethereum/wiki/wiki/Mining)__
+4. __[History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html)__
 
-    Introduction to mining, written on the Ethereum github wiki.
+   Brief history of the beginnings of Ethereum
 
-4. __[Web 3: A platform for decentralized apps](http://www.ethdocs.org/en/latest/introduction/web3.html)__
+5. __[The "Yellow Paper"](http://paper.gavwood.com/)__
 
-5. __[History of Ethereum](http://www.ethdocs.org/en/latest/introduction/history-of-ethereum.html)__
+   Ethereum's formal techincal specification. Dense, but definitely worth a quick skim
 
-6. __[The "Yellow Paper"](http://paper.gavwood.com/)__
+6. __[Introduction to Mining](https://github.com/ethereum/wiki/wiki/Mining)__
 
-   Ethereum's formal techincal specification. Dense, but definitely worth a quick skim to understand the full context of Ethereum.
+   Learn more about what mining exactly is in the context of Ethereum
     
 ### Further reading
 
