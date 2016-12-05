@@ -131,13 +131,13 @@ __Casper__: Proof-of-stake algorithm in development for Serenity
 
 __Ethash__: Current proof-of-work algorithm for Ethereum
 
-__Testnet__: A private blockchain separate from the main Ethereum network designed for testing.
+__Testnet__: A blockchain separate from the main Ethereum network designed for testing
 
-__Olympic__: Pre-release testnet launched in early 2015, sometimes referred to as Ethereum Version 0.9
+__Olympic__: Pre-release public testnet launched in early 2015, sometimes referred to as Ethereum Version 0.9
 
-__Morden__: First first full release testnet launched in parallel with Ethereum 1.0 in July 2015
+__Morden__: First first full release public testnet launched in parallel with Ethereum 1.0 in July 2015
 
-__Ropsten__: Latest testnet launched in November 2016 replacing the bugged Morden testnet, currently running the latest Homestead release of Ethereum
+__Ropsten__: Latest public testnet launched in November 2016 replacing the bugged Morden testnet, currently running the latest Homestead release of Ethereum
 
 ## Communities
 
