@@ -109,7 +109,7 @@ __[geth](https://github.com/ethereum/go-ethereum/wiki/geth)__: Command-line inte
 
 __[go-ethereum](https://github.com/ethereum/go-ethereum)__: Official Go implementation
 
-__[web 3 (web3.js)](https://github.com/ethereum/web3.js/)__: Ethereum JavaScript API
+__[web3 (web3.js)](https://github.com/ethereum/web3.js/)__: Javascript library to create Dapps on Ethereum
 
 __[cpp-ethereum](https://github.com/ethereum/cpp-ethereum)__: C++ client
 
