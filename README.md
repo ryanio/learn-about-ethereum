@@ -1,6 +1,6 @@
 # Learn about Ethereum
 
-A structured document to learn about Ethereum from the basics to advanced concepts.
+A guide to jump into learning about Ethereum.
 
 1. [Reading](#reading)
 2. [Glossary](#glossary)
