@@ -24,22 +24,20 @@ A guide to jump into learning about Ethereum.
 
     Learn more about what mining exactly is in the context of Ethereum
 
-* __[Ethereum Community-Maintained Wiki](https://github.com/ethereum/wiki/wiki)__
+7. [Ethereum Community-Maintained Wiki](https://github.com/ethereum/wiki/wiki)__
     
 ### Technical reading and documentation
 
-* Ethereum.org tutorials
-  * __[Create your own crypto-currency with Ethereum](https://www.ethereum.org/token)__
-  * __[Crowdsale: Raising funds without a third party](https://www.ethereum.org/crowdsale)__
-  * __[DAO: How to build a democracy on the blockchain](https://www.ethereum.org/dao)__
+1. Ethereum.org tutorials
+  1. __[Create your own crypto-currency with Ethereum](https://www.ethereum.org/token)__
+  2. __[Crowdsale: Raising funds without a third party](https://www.ethereum.org/crowdsale)__
+  3. __[DAO: How to build a democracy on the blockchain](https://www.ethereum.org/dao)__
 
-* __[Solidity Technical Documentation: Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)__
+2. __[Solidity Technical Documentation: Introduction to Smart Contracts](https://solidity.readthedocs.io/en/develop/introduction-to-smart-contracts.html)__
 
-* __[Web3 Javascript API (Web3.js)](https://github.com/ethereum/wiki/wiki/JavaScript-API)__
+3. __[Web3 Javascript API (Web3.js)](https://github.com/ethereum/wiki/wiki/JavaScript-API)__
 
 ## Glossary
-
-_Loosely ordered by importance_
 
 __Ethereum__: Public blockchain platform with smart contract functionality. Povides a decentralized virtual machine that can execute peer-to-peer contracts using a cryptocurrency called Ether (ETH)
 
